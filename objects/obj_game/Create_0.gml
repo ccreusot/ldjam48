@@ -1,0 +1,12 @@
+alarm[0] = 10;
+alarm[1] = 30;
+alarm[2] = 30;
+score = 0;
+spawn_spike = false;
+drug_level = 0;
+color = 0;
+color_as_reach_max = false;
+color_as_reach_min = true;
+color_value = 0;
+scale_boost = 0;
+rotating_speed = 1;
