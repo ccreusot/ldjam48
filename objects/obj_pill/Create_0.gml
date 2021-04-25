@@ -5,3 +5,4 @@
 event_inherited();
 image_speed = 2;
 
+depth = -2;
